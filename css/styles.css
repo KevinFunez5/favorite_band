@@ -6,3 +6,13 @@
   margin-right: 100px;
   font-weight: bold;
 }
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 500px;
+}
+.column {
+  float: left;
+  padding-left: 400px;
+}
